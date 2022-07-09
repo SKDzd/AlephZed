@@ -1,0 +1,271 @@
+﻿Abdomen:بطن
+Ablution:وضوء
+Acceleration:تسارع
+Adapt:يتكيف
+Advertisement:إعلان
+Agile:رشيق
+Allergy:حساسية
+Alligator:تمساح
+Alms:صدقة
+Alphabet:الأبجدية
+Amateur:هاوي
+Ambition:طموح
+Anesthetic:مخدر
+Antiquity:العصور القديمة
+Antiseptic:معقم
+Appalling:مفزع
+Appendix:الزائدة الدودية
+Appetizer:فاتح شهية
+Aquarium:متحف مائي
+Archery:الرماية
+Ascetic:زاهد
+Asparagus:سبانخ
+Asphyxiated:مختنق
+Astronaut:رائد فضاء
+ATM:صراف آلي
+Attic:عِلّيّة
+Auction:مزاد
+Auditor:مراجع حسابات
+Avenue:جادة
+Baguette:خبز فرنسي
+Bait:طُعم الصيد
+Balcony:شرفة
+Ballot:ورقة الاقتراع
+Bankruptcy:إفلاس
+Barracks:ثكنات
+Barter:مقايضة
+Beads:خرز
+Beak:منقار
+Beard:لحية
+Beetle:خنفساء
+Bicycle:دراجة هوائية
+Blasphemy:كفر
+Branch:غصن
+Brass:النحاس الأصفر
+Brilliant:ألمعي
+Broker:سمسار
+Broth:مرق
+Bullet:رصاصة
+Buried:مدفون
+Butcher:جزار
+Bylaw:لائحة قانونية
+Cabinet:خزانة
+Cage:قفص
+Camouflage:تمويه
+Canoe:قارب صغير
+Carpenter:نجار
+Caterpillar:يرقة فراشة
+Ceiling:سقف
+Celebration:احتفال
+Celery:كرفس
+Cemetery:مقبرة
+Cheap:رخيص
+Chicken:دجاجة
+Circle:دائرة
+Clown:مهرج
+Coin:عملة معدنية
+Colony:مستعمرة
+Commission:عمولة
+Compass:بوصلة
+Conquer:يهزم
+Constituency:دائرة انتخابية
+Contribution:إسهام
+Convertible:قابل للطي
+Creed:عقيدة
+Creek:جدول ماء
+Curly:مجعد
+Cushion:وسادة
+Dates:بلح
+Daughter:ابنة
+Decline:تدهور
+Delicious:لذيذ
+Depletion:نضوب
+Diabetic:مصاب ببول سكري
+Diamond:ماسة
+Dissident:منشق
+Diversification:تنويع
+Dozen:دستة
+Drought:جفاف
+Eagle:نسر
+Earring:قرط
+Eggplant:باذنجان
+Embargo:حظر تجاري
+Embassy:سفارة
+Evacuation:إخلاء
+Eyelid:جفن
+Fall:الخريف
+Fascinating:خلاب
+Faucet:صنبور
+Feather:ريشة
+Fence:سور
+Fencing:مبارزة بالسيف
+Fertile:خصب
+Fever:حمى
+Fiscal:مالي
+Flock:سرب
+Foam:رغوة
+Frame:إطار
+Garlic:ثوم
+Giant:عملاق
+Glue:صمغ
+Gradually:تدريجيا
+Grind:يطحن
+Hammock:أرجوحة شبكية
+Harness:يشد عدة الحصان
+Harvest:حصاد
+Hawk:صقر
+Hay:قش تبن
+Hepatitis:التهاب الكبد
+Hippopotamus:فرس النهر
+History:تاريخ
+Hood:قلنسوة
+Hypocrite:منافق
+Iceberg:جبل جليدي
+Idol:وثن
+Illuminate:ينير
+Inauguration:تدشين
+Incident:حدث
+Insomnia:أرق
+Intestines:أمعاء
+Jacket:معطف
+Jaw:فك
+Juice:عصير
+Kneel:يركع
+Knife:سكين
+Knight:فارس
+Knock:يقرع
+Lamp:مصباح
+Lash:جَلدة
+Laundry:غسيل
+Lawn:نجيل
+Lentil:عدس
+Lettuce:خس
+Library:مكتبة
+License:رخصة
+Lick:يلعق
+Limestone:حجر جيري
+Love:حب
+Lung:رئة
+Magazine:مجلة
+Marble:رخام
+March:مسيرة عسكرية
+Medicine:دواء
+Migrate:يهاجر
+Mineral:معدني
+Miracle:معجزة
+Moist:رطب
+Molten:منصهر
+Moment:لحظة
+Monk:راهب
+Mule:بغل
+Mustard:خردل
+Narrow:ضيق
+Nomad:بدوي
+Nominal:اسمي
+Nut:صامولة
+Oasis:واحة
+Octopus:أخطبوط
+Orientalist:مستشرق
+Ostrich:نعامة
+Oval:بيضاوي
+Oyster:محارة
+Package:رزمة
+Pantomime:تمثيل إيمائي
+Pasta:معكرونة
+Pattern:نمط
+Paw:قدم الحيوانات ذات المخالب
+Peel:يقشر
+Pelican:بجع
+Perish:يهلك
+Picnic:نزهة
+Piece:قطعة
+Pillow:وسادة
+Plow:محراث
+Polytheist:مشرك
+Pour:يصب
+Precious:نفيس
+Prescription:وصفة طبية
+Profit:ربح
+Propeller:رفّاص السفينة
+Prophet:نبي
+Prostrate:يسجد
+Psalms:مزامير الزبور
+Pulse:نبض
+Quarter:ربع
+Question:سؤال
+Queue:طابور
+Quiet:هادئ
+Quite:تماما
+Radish:فجل
+Razor:موسى
+Receive:يتسلم
+Relax:يسترخي
+Religious:ديني
+Repent:يتوب
+Rescue:ينقذ
+Rowing:تجديف
+Rust:صدأ
+Sabotage:تخريب
+Saw:منشار
+Scale:ميزان
+Scarce:نادر
+Scissors:مقص
+Seashell:قوقعة
+Selfish:أناني
+Shin:قصبة الساق
+Sole:نعل
+Shutter:مصراع
+Skirt:تنورة
+Soap:صابون
+Sore:قرحة
+Soup:حساء
+Squash:القرع الصيفي
+Squid:حبار
+Stapler:دباسة
+String:خيط
+Subsidy:دعم حكومي
+Suspicious:مثير للشك
+Swallow:يبتلع - طائر السنونو
+Swan:طائر التم
+Tampon:سدادة قطنية
+Tax:ضريبة
+Telegram:برقية
+Temperature:درجة الحرارة
+Theater:مسرح
+Theory:نظرية
+Thief:لص
+Thigh:فخذ
+Thumb:إبهام
+Tilt:يميل
+Together:معاً
+Tongue:لسان
+Tractor:جرار
+Traffic:حركة المرور
+Tribe:قبيلة
+Turnip:لِفت
+Vaccine:لقاح
+Vacuum:خواء
+Vein:وريد
+Velvet:مخمل
+View:منظر
+Volunteer:متطوع
+Waterfall:شلال
+Weight:وزن
+Whip:سوط
+Windfall:كسب مفاجئ - طرح ريح
+Windmill:طاحونة هوائية
+Workshop:ورشة
+Wound:جرح
+Wrench:يلوي
+Writer:كاتب
+Zipper:زمام - سوسته
+obscure:يحجب
+obstacle:عقبة
+passion:شغف
+patrol:دورية
+patron:راعي
+philosophize:يتفلسف
+polite:مهذب
+rocket:صاروخ
+digest:يهضم
+digital:رقمي
