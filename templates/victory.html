@@ -1,1 +1,22 @@
+<!DOCTYPE html>
 
+<html lang="ar">
+<head>
+<title>AlephZed by SKDzd ألفزد</title>
+
+</head>
+<body>
+
+<div style="text-align: center;">
+<p dir="rtl"><h2>!! أحسنت !!</h2></p>
+<p>انتهيت من كل كلمات قاموس اللعبة</p>
+</div>
+<br />
+
+<p dir="rtl">القاموس: {{length}}</p>
+<p><a href="/cleanse">مسح</a></p>
+{% for couple in solved_couples %}
+<p>{{loop.revindex}}- {{couple}}</p>
+{% endfor %}
+</body>
+</html>
