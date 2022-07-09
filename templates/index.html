@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<title>AlephZed by SKDzd لعبة ألفزد</title>
+
+<!--
+Flexbox Template from Quackit.com
+-->
+<style type="text/css">
+  button:disabled {
+	background-color: #cccccc;
+	}
+  header {
+	text-align: center;
+	color: navy;
+	}
+  article {
+	text-align: center;
+	}
+  footer {
+	font-size: 80%;	
+	}
+  * {
+    box-sizing: border-box; 
+  }
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin: 0;
+  }
+  #main {
+    display: flex;
+    flex: 1;
+  }
+  #main > article {
+    flex: 1;
+    order: 1;
+  }
+  #main > nav {
+    flex: 0 0 25vw;
+    order: 2;
+    background: #e3e3e3;
+    font-size: 80%;
+  }
+  header, footer {
+    background: yellowgreen;
+  }
+  header, footer, article, nav {
+    padding: 1em;
+  }
+</style>
+</head>
+
+<body>
+
+<header>
+AlephZed ألفزد
+</header>
+
+<!--<form action="/" method="POST">-->
+<!--<input type="text" name="the_harf" autofocus>-->
+<!--<input type="submit" value="">-->
+<!--</form>-->
+
+<div id="main">
+
+<article>
+				<h4>{{blanksEn}}</h4>
+				<p dir="rtl"><h5>{{wordAr}}</h5></p>
+				<meter min="0" max="8" low="3" value="{{tries}}"></meter>
+				<br />
+				<form action="/" method="POST" dir="rtl">
+					{% for btn in buttons %}
+					&nbsp;<button name="the_harf" value="{{btn[0]}}" {{btn[1]}}>{{btn[2]}}</button>
+					{% if loop.index in (4,8,12,16) %}
+					<br />
+					{% endif %}
+					{% endfor %}
+					</form>
+</article>
+
+<nav>
+				<p><a href="/cleanse">مسح</a></p>
+				{% for couple in solved_couples %}
+				<p>{{loop.revindex}}- {{couple}}</p>
+				{% endfor %}
+				<br />
+				{{length}}
+</nav>
+
+</div>
+
+<footer dir="rtl">
+عن اللعبة:<br /><br /> 
+البرنامج تطوير للعبة (المشنقة Hangman) المعروفة،<br />
+لكن بهدف جديد: تعليم اللغة الإنجليزية للناطقين بالعربية.<br />
+كل دور سيعطيك كلمة عربية،<br />
+وعليك تخمين معناها الإنجليزي قبل نفاد المحاولات.<br />
+الجديد هنا:<br />
+تخمين الكلمة الإنجليزية لن يكون بإدخال حروف إنجليزية،<br />
+بل حروف عربية!<br />
+برمجة اللعبة ستحوّل الحرف العربي لمقابله الإنجليزي،<br />
+حسب طريقة النطق الصحيحة.<br />
+مثال: إن كانت الكلمة السرية المطلوبة هي (Circle) <br />
+فستجد أن إدخال حرف الـ (س) سيكشف أول (C) في الكلمة،<br />
+لكن لن يكشف الـ (C) الثانية، لأن نطقها الصحيح هنا (ك)!<br />
+بهذه الطريقة يمكنك تعلم النطق السليم للمفردات الإنجليزية.<br />
+اللعبة تفهم المقاطع الصوتية أيضا<br />
+مثال: لو كانت الكلمة السرية (Fish) <br />
+فستجد أن إدخال حرف (ش) سيكشف الحرفين SH!<br /><br />
+لإرسال الملاحظات والتحسينات:<br />
+ابعث تغريدة على ArabicSalama<br />
+سكربت اللعبة مكتوب بلغة بَيثون Python<br />
+(سلامة SKDzd)</footer>
+
+</body>
+</html>
